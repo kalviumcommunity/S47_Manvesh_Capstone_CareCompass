@@ -46,6 +46,11 @@ exports.signin = async (req, res) => {
   const { email, password } = req.body;
   try {
     // Find user by email
+
+
+
+
+    //Implementation of username password authorization
     const user = await User.findOne({ email });
     if (!user) {
       return res.status(400).json({ message: 'User not found' });
