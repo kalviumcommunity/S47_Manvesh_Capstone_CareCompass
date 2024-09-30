@@ -10,6 +10,11 @@
 CareCompass is a platform that assists with all your emergency health needs anytime anywhere at your ease. 
 From providing the nearest hospital with available slots for your emergency to any time and anywhere assistance from a certified medical expert, This is “CareCompass a safe space to assist all your emergencies”.
 
+## [Deployed Link Frontend](https://dainty-gelato-66ec55.netlify.app/)
+
+
+## [Deployed Link Backend]([https://dainty-gelato-66ec55.netlify.app/](https://s47-manvesh-capstone-carecompass-1.onrender.com))
+
 
 # Daily Plan:
 Day 1- Creating a Low fid design
