@@ -1,4 +1,5 @@
 // authMiddleware.js
+// Here is JWT files
 const jwt = require('jsonwebtoken');
 
 const authMiddleware = (req, res, next) => {
