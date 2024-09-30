@@ -1,3 +1,4 @@
+//Creating db schema
 const mongoose = require('mongoose');
 
 const hospitalSchema = new mongoose.Schema({
