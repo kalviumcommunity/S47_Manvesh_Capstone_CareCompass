@@ -13,7 +13,7 @@ From providing the nearest hospital with available slots for your emergency to a
 ## [Deployed Link Frontend](https://dainty-gelato-66ec55.netlify.app/)
 
 
-## [Deployed Link Backend](https://dainty-gelato-66ec55.netlify.app/](https://s47-manvesh-capstone-carecompass-1.onrender.com)
+##  [Deployed Link Backend](https://s47-manvesh-capstone-carecompass-1.onrender.com)
 
 
 # Daily Plan:
