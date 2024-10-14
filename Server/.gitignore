@@ -1,1 +1,85 @@
-node_modules
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Dependency directories
+bower_components/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build directories
+dist/
+build/
+
+# Cache
+.cache/
+.cache-loader/
+
+# Coverage directory used by testing tools like Jest
+coverage/
+
+# Public directory for React build
+/public/
+
+# Temporary files
+*.tmp
+*.swp
+
+# macOS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Ignore lock files
+package-lock.json
+yarn.lock
+
+
+
+# Miscellaneous
+*.log
+*.out
+*.pid
+*.seed
+
+# MongoDB files
+*.lock
+dump/
+
+# Ignore React production build files
+/build/
+
+# Local React environment settings
+local.env
+
+# ESLint cache
+.eslintcache
+
+# SASS cache
+.sass-cache/
+
+# Ignore React testing snapshots
+__snapshots__/
+
+# Ignore Next.js files (if applicable)
+.next/
+
+# Ignore VSCode workspace settings
+.vscode/
+
+# Ignore Heroku deployment files
+Procfile
